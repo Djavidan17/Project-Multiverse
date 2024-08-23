@@ -11,28 +11,18 @@
             "id": "2e893a0a5377b777",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "amk cocugu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b5df6236ddfc676",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Mechanics/Mechanics.canvas",
+                "viewState": {
+                  "x": 677.0847168048188,
+                  "y": -3311.63001569308,
+                  "zoom": -1.3333333333333333
+                }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mechanics/Mechanics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Mechanics/Mechanics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Mechanics/Mechanics.canvas"
               }
             }
           }
@@ -159,10 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b5df6236ddfc676",
+  "active": "db05fd7f1da465b1",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Main/Main.canvas",
+    "Main/Design Document Project Multiverse Combat.md",
+    "Mechanics/Mechanics.canvas",
+    "Scenarios/Scenarios.canvas",
+    "Scenarios",
+    "Main",
+    "Mechanics",
     "amk cocugu.md",
-    "amk cocugu.md"
+    "Selamin Aleykum.md"
   ]
 }
