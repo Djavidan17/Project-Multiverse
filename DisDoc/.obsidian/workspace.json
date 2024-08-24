@@ -15,9 +15,9 @@
               "state": {
                 "file": "Mechanics/Mechanics.canvas",
                 "viewState": {
-                  "x": 677.0847168048188,
-                  "y": -3311.63001569308,
-                  "zoom": -1.3333333333333333
+                  "x": 2331.0606732951715,
+                  "y": -1711.3924955378732,
+                  "zoom": -0.3333333333333334
                 }
               }
             }
@@ -149,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db05fd7f1da465b1",
+  "active": "2e893a0a5377b777",
   "lastOpenFiles": [
     "Main/Main.canvas",
     "Main/Design Document Project Multiverse Combat.md",

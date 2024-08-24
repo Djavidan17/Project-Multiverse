@@ -67,7 +67,14 @@
 		{"id":"37851457c1ec6cd3","x":-1100,"y":-2960,"width":250,"height":60,"color":"5","type":"text","text":"Динамическая, следует курсору"},
 		{"id":"c1dcbdd2460751e7","x":1842,"y":-2416,"width":250,"height":60,"color":"2","type":"text","text":"Controls"},
 		{"id":"f8a158d94482784b","x":-140,"y":-3580,"width":250,"height":60,"color":"5","type":"text","text":"Добивающие криты"},
-		{"id":"e4398c1c5e7c120b","x":1842,"y":-2180,"width":250,"height":60,"color":"1","type":"text","text":"Playstation Gamepad"}
+		{"id":"e4398c1c5e7c120b","x":1842,"y":-2180,"width":250,"height":60,"color":"1","type":"text","text":"Playstation Gamepad"},
+		{"id":"e32ded5b7e8ec64f","x":1842,"y":-2040,"width":250,"height":60,"color":"5","type":"text","text":"Front Punch \"Square\""},
+		{"id":"0a93e1e1436f0aae","x":1842,"y":-1920,"width":250,"height":60,"color":"5","type":"text","text":"Back Punch \"Triangle\""},
+		{"id":"59efc16ec2751257","x":1842,"y":-1800,"width":250,"height":60,"color":"5","type":"text","text":"Front Kick \"X\""},
+		{"id":"cbc00e73bbbcb870","x":1842,"y":-1680,"width":250,"height":60,"color":"5","type":"text","text":"Back Kick \"Circle\""},
+		{"id":"a83fb3c8bb13c04a","x":1842,"y":-1560,"width":250,"height":60,"color":"5","type":"text","text":"Movement \"D-pad or thumbstick control\""},
+		{"id":"27b0e7fda51fffc2","x":1842,"y":-1440,"width":250,"height":60,"color":"5","type":"text","text":"Grab \"L1\""},
+		{"id":"28aa31f58303fd06","x":2200,"y":-1440,"width":250,"height":60,"color":"5","type":"text","text":"Block/Empower \"R2\""}
 	],
 	"edges":[
 		{"id":"d0dfafcf2953003f","fromNode":"8cc40092b3dfb2f5","fromSide":"left","toNode":"25d040c7fdabf20a","toSide":"right"},
@@ -144,6 +151,13 @@
 		{"id":"07e5a1e9dd302c48","fromNode":"7a741eb344db8106","fromSide":"top","toNode":"37851457c1ec6cd3","toSide":"right"},
 		{"id":"1cd7f5b09c1d40ea","fromNode":"1f04e1ea20e66eb5","fromSide":"left","toNode":"f8a158d94482784b","toSide":"right"},
 		{"id":"40ea2ed85ba6fdc1","fromNode":"b574c163a8cb9b43","fromSide":"left","toNode":"f8a158d94482784b","toSide":"left"},
-		{"id":"1be6b0c3e8751727","fromNode":"c1dcbdd2460751e7","fromSide":"bottom","toNode":"e4398c1c5e7c120b","toSide":"top"}
+		{"id":"1be6b0c3e8751727","fromNode":"c1dcbdd2460751e7","fromSide":"bottom","toNode":"e4398c1c5e7c120b","toSide":"top"},
+		{"id":"4677c51595f37591","fromNode":"e4398c1c5e7c120b","fromSide":"bottom","toNode":"e32ded5b7e8ec64f","toSide":"top","toEnd":"none"},
+		{"id":"16e491549d64bb89","fromNode":"e32ded5b7e8ec64f","fromSide":"bottom","toNode":"0a93e1e1436f0aae","toSide":"top","toEnd":"none"},
+		{"id":"4e5d702950823ed6","fromNode":"0a93e1e1436f0aae","fromSide":"bottom","toNode":"59efc16ec2751257","toSide":"top","toEnd":"none"},
+		{"id":"aad2dc607d79af0c","fromNode":"59efc16ec2751257","fromSide":"bottom","toNode":"cbc00e73bbbcb870","toSide":"top","toEnd":"none"},
+		{"id":"c78d90bec94cb99e","fromNode":"cbc00e73bbbcb870","fromSide":"bottom","toNode":"a83fb3c8bb13c04a","toSide":"top","toEnd":"none"},
+		{"id":"6f41986567731726","fromNode":"a83fb3c8bb13c04a","fromSide":"bottom","toNode":"27b0e7fda51fffc2","toSide":"top","toEnd":"none"},
+		{"id":"dc43c4ef0b3eed78","fromNode":"27b0e7fda51fffc2","fromSide":"right","toNode":"28aa31f58303fd06","toSide":"left","toEnd":"none"}
 	]
 }
