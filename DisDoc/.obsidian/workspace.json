@@ -15,9 +15,9 @@
               "state": {
                 "file": "Mechanics/Mechanics.canvas",
                 "viewState": {
-                  "x": 2331.0606732951715,
-                  "y": -1711.3924955378732,
-                  "zoom": -0.3333333333333334
+                  "x": 370.5,
+                  "y": -2290,
+                  "zoom": -2.5906761519155497
                 }
               }
             }
@@ -149,11 +149,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e893a0a5377b777",
+  "active": "db05fd7f1da465b1",
   "lastOpenFiles": [
+    "Maps/Maps.md",
     "Main/Main.canvas",
     "Main/Design Document Project Multiverse Combat.md",
+    "Img/Rasul's ideas.jpg",
+    "Img/Pasted image 20240825002502.png",
+    "Img/Pasted image 20240825003059.png",
+    "Rasul's ideas.jpg",
+    "Img",
+    "Pasted image 20240825002555.png",
     "Mechanics/Mechanics.canvas",
+    "Maps",
     "Scenarios/Scenarios.canvas",
     "Scenarios",
     "Main",
