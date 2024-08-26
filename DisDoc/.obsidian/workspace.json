@@ -1,25 +1,18 @@
 {
   "main": {
-    "id": "f9e3bdea4cb18e62",
+    "id": "89fc0904b7983a61",
     "type": "split",
     "children": [
       {
-        "id": "a30e265a9a95ea4c",
+        "id": "869e6d876be9407b",
         "type": "tabs",
         "children": [
           {
-            "id": "2e893a0a5377b777",
+            "id": "266150e5e9e0a66c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Mechanics/Mechanics.canvas",
-                "viewState": {
-                  "x": 370.5,
-                  "y": -2290,
-                  "zoom": -2.5906761519155497
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -28,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b07d33e7f0fe2ef9",
+    "id": "be32718039dfadd7",
     "type": "split",
     "children": [
       {
-        "id": "55a1d4f4e71505df",
+        "id": "e4b7722b3da87549",
         "type": "tabs",
         "children": [
           {
-            "id": "db05fd7f1da465b1",
+            "id": "d29b3ca84b541fd7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +39,7 @@
             }
           },
           {
-            "id": "0bdcf42fe86361e6",
+            "id": "56f5728bc3e817ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +54,7 @@
             }
           },
           {
-            "id": "ae05458b93f9b516",
+            "id": "62c2ab9d0ab7d586",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "b90eba28720b6c17",
+    "id": "4e96859a79127042",
     "type": "split",
     "children": [
       {
-        "id": "c50170dad362c2ba",
+        "id": "3639ea674f3f142e",
         "type": "tabs",
         "children": [
           {
-            "id": "9e1a38bac986b33f",
+            "id": "2c9d839e4c400ae7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics/Mechanics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,19 +92,18 @@
             }
           },
           {
-            "id": "aabab046be6d99a8",
+            "id": "75ace4ff9a712fb4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics/Mechanics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b135565491322096",
+            "id": "a03df6143511ccf3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,13 +114,11 @@
             }
           },
           {
-            "id": "501bbe50e4c621c6",
+            "id": "bf865665e84c25e9",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mechanics/Mechanics.canvas"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,24 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db05fd7f1da465b1",
+  "active": "d29b3ca84b541fd7",
   "lastOpenFiles": [
-    "Maps/Maps.md",
-    "Main/Main.canvas",
-    "Main/Design Document Project Multiverse Combat.md",
-    "Img/Rasul's ideas.jpg",
-    "Img/Pasted image 20240825002502.png",
-    "Img/Pasted image 20240825003059.png",
-    "Rasul's ideas.jpg",
-    "Img",
-    "Pasted image 20240825002555.png",
     "Mechanics/Mechanics.canvas",
-    "Maps",
-    "Scenarios/Scenarios.canvas",
-    "Scenarios",
-    "Main",
-    "Mechanics",
-    "amk cocugu.md",
-    "Selamin Aleykum.md"
+    "Maps/Maps.md"
   ]
 }
