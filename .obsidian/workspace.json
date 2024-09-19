@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "ca75d7833b693407",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db7a191f57e109c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767f180a75fe08e1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "DisDoc/Mechanics/Mechanics.canvas",
+                "viewState": {
+                  "x": -1312.7761689552797,
+                  "y": -1815.601852165096,
+                  "zoom": -0.2550731201311111
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2fb63754c9b1635",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8123399178a0b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c66007e4e30d457a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "971ba14f714b1988",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb64b8b966e7cdfc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b2491d7d81b8d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "8761d539548ab151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba88160f34e4ace4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DisDoc/Mechanics/Mechanics.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5810c0f1d515e229",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DisDoc/Mechanics/Mechanics.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef7d8dfa8129d042",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4168f1c48fd6161",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DisDoc/Mechanics/Mechanics.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c66007e4e30d457a",
+  "lastOpenFiles": [
+    "DisDoc/Scenarios/Scenarios.canvas"
+  ]
+}
