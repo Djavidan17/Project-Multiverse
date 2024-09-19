@@ -50,7 +50,6 @@
 		{"id":"7007fb3b7cc13e2e","type":"text","text":"Background","x":-30,"y":-920,"width":250,"height":60,"color":"5"},
 		{"id":"a53083f42c78aa1e","type":"text","text":"Кнопки","x":420,"y":-920,"width":250,"height":60,"color":"5"},
 		{"id":"7067b275b6205e58","type":"text","text":"Random selection of maps","x":-30,"y":-760,"width":250,"height":60,"color":"5"},
-		{"id":"f72b11b163367588","type":"text","text":"Characters","x":-30,"y":-600,"width":250,"height":60,"color":"5"},
 		{"id":"d410168f064d78e4","type":"text","text":"Skin Selection","x":420,"y":-790,"width":250,"height":60,"color":"5"},
 		{"id":"afa4e758302d1997","type":"text","text":"Random pick","x":420,"y":-660,"width":250,"height":60,"color":"5"},
 		{"id":"a416dc005a2053e7","type":"text","text":"Press \"button\" to add a player","x":420,"y":-410,"width":250,"height":60,"color":"5"},
@@ -89,7 +88,8 @@
 		{"id":"f132ff3944e0c13d","type":"text","text":"Move Left \"A\"","x":2180,"y":-2860,"width":250,"height":60,"color":"5"},
 		{"id":"8f10d809504a2a91","type":"text","text":"Move Right \"D\"","x":2180,"y":-2660,"width":250,"height":60,"color":"5"},
 		{"id":"2f5c4a93f7e24100","type":"text","text":"Flip Stance \"R\"","x":2200,"y":-1680,"width":250,"height":60,"color":"5"},
-		{"id":"5ca3dfb83495f904","type":"file","file":"Img/Rasul's ideas.jpg","x":-2029,"y":-4360,"width":316,"height":1851}
+		{"id":"5ca3dfb83495f904","type":"file","file":"Img/Rasul's ideas.jpg","x":-2029,"y":-4360,"width":316,"height":1851},
+		{"id":"f72b11b163367588","type":"text","text":"Characters","x":-30,"y":-630,"width":250,"height":60,"color":"5"}
 	],
 	"edges":[
 		{"id":"d0dfafcf2953003f","fromNode":"8cc40092b3dfb2f5","fromSide":"left","toNode":"25d040c7fdabf20a","toSide":"right"},
