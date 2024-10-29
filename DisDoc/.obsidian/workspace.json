@@ -11,12 +11,17 @@
             "id": "ed42d5bce0c83c39",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Img/Pasted image 20240825002502.png"
+                "file": "Models/Characters/Base.canvas",
+                "viewState": {
+                  "x": -75,
+                  "y": -223,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20240825002502"
+              "icon": "lucide-layout-dashboard",
+              "title": "Base"
             }
           }
         ]
@@ -162,11 +167,11 @@
   },
   "active": "ed42d5bce0c83c39",
   "lastOpenFiles": [
+    "Img/Pasted image 20240825002502.png",
     "Models/Characters/Base.canvas",
     "Models/Characters",
     "Models",
     "Img/Rasul's ideas.jpg",
-    "Img/Pasted image 20240825002502.png",
     "Main/Design Document Project Multiverse Combat.md",
     "Main/Main.canvas",
     "Mechanics/Mechanics.canvas",
