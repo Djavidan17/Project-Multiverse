@@ -1,19 +1,24 @@
 {
   "main": {
-    "id": "1744f74380cb6245",
+    "id": "89fc0904b7983a61",
     "type": "split",
     "children": [
       {
-        "id": "5a61968e03443981",
+        "id": "869e6d876be9407b",
         "type": "tabs",
         "children": [
           {
-            "id": "ed42d5bce0c83c39",
+            "id": "266150e5e9e0a66c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Img/Pasted image 20240825002502.png"
+                "file": "Models/Characters/Base.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -23,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "dc6a8f0698b3f363",
+    "id": "be32718039dfadd7",
     "type": "split",
     "children": [
       {
-        "id": "ba7af71928aa3697",
+        "id": "e4b7722b3da87549",
         "type": "tabs",
         "children": [
           {
-            "id": "34c4012e6b24c0c2",
+            "id": "d29b3ca84b541fd7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +46,7 @@
             }
           },
           {
-            "id": "7dea6b220caa1f85",
+            "id": "56f5728bc3e817ec",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +61,7 @@
             }
           },
           {
-            "id": "10a3c59b890aa9c6",
+            "id": "62c2ab9d0ab7d586",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -70,20 +75,20 @@
     "width": 300
   },
   "right": {
-    "id": "6edaf7e51962e814",
+    "id": "4e96859a79127042",
     "type": "split",
     "children": [
       {
-        "id": "72a9f38db2e16417",
+        "id": "3639ea674f3f142e",
         "type": "tabs",
         "children": [
           {
-            "id": "2cc50dba3ace3f00",
+            "id": "2c9d839e4c400ae7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Img/Pasted image 20240825002502.png",
+                "file": "Models/Characters/Base.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,19 +100,19 @@
             }
           },
           {
-            "id": "cd25c2ec27a7d904",
+            "id": "75ace4ff9a712fb4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Img/Pasted image 20240825002502.png",
+                "file": "Models/Characters/Base.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "debfa7ebdcc1144b",
+            "id": "a03df6143511ccf3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,12 +123,12 @@
             }
           },
           {
-            "id": "a31543a485b5f8bc",
+            "id": "bf865665e84c25e9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Img/Pasted image 20240825002502.png"
+                "file": "Models/Characters/Base.canvas"
               }
             }
           }
@@ -144,13 +149,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed42d5bce0c83c39",
+  "active": "266150e5e9e0a66c",
   "lastOpenFiles": [
-    "Img/Rasul's ideas.jpg",
-    "Img/Pasted image 20240825002502.png",
-    "Main/Design Document Project Multiverse Combat.md",
-    "Main/Main.canvas",
     "Mechanics/Mechanics.canvas",
+    "Models/Characters/Base.canvas",
+    "Models/Characters",
+    "Models/Characters/Base.canvas",
+    "Models/Objects",
+    "Models/Characters",
+    "Models",
+    "Untitled.md",
     "Maps/Maps.md"
   ]
 }
