@@ -14,7 +14,9 @@
               "type": "image",
               "state": {
                 "file": "Img/Pasted image 20240825002502.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240825002502"
             }
           }
         ]
@@ -37,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +66,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -91,7 +99,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pasted image 20240825002502"
             }
           },
           {
@@ -103,7 +113,9 @@
                 "file": "Img/Pasted image 20240825002502.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pasted image 20240825002502"
             }
           },
           {
@@ -114,7 +126,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,7 +138,9 @@
               "type": "outline",
               "state": {
                 "file": "Img/Pasted image 20240825002502.png"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pasted image 20240825002502"
             }
           }
         ]
