@@ -11,17 +11,14 @@
             "id": "ed42d5bce0c83c39",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Models/Characters/Base.canvas",
-                "viewState": {
-                  "x": -75,
-                  "y": -223,
-                  "zoom": 0
-                }
+                "file": "Models/Characters/kendrick lamar.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Base"
+              "icon": "lucide-file",
+              "title": "kendrick lamar"
             }
           }
         ]
@@ -167,8 +164,12 @@
   },
   "active": "ed42d5bce0c83c39",
   "lastOpenFiles": [
-    "Img/Pasted image 20240825002502.png",
+    "Img/Pasted image 20241029200652.png",
     "Models/Characters/Base.canvas",
+    "Models/Characters/kendrick lamar.md",
+    "Untitled",
+    "Img/Pasted image 20241029195506.png",
+    "Img/Pasted image 20240825002502.png",
     "Models/Characters",
     "Models",
     "Img/Rasul's ideas.jpg",

@@ -1,6 +1,27 @@
 {
 	"nodes":[
-		{"id":"cf0bd58f46dd64b4","type":"text","text":"Porn\n","x":-280,"y":-280,"width":250,"height":60}
+		{"id":"1b430fb6796a559a","type":"text","text":"The rock(normal, wrestler, actor) \nRonaldo(different clubs)\nElon musk(tesla ceo, X ceo, neurolink robot)\nSnoop Dogg(prime snoop, old snoop, Olympic games)\nTyson(Pigeon lover, old , the ear eater)\nKanye West(Donra, old, new)\nBiden(b/w old, president, sleepy joe)\nGordon ramsey(vegan, meat, cook teacher)\nTom cruise( jack richer, runner, миссия невыполнима)\nrobert davney jr\nRihanna \nMarylin Monroe \nPewDiePie( youtube king, normal, the father(cratos costplay))\nJohn cena(wrestler, peace maker, naked)\nTrump(true American, in prison, president of usa\nKamala(true American, McDonald's Worker, )\nModi \nDiddy( the lube Diddy, old Diddy, party diddy)\nDrake(long shlong, raper, tootsie slide)\nKim Jong un(Winnie Pooh, nuclear king, dictator)\nObama( basketball player, president, )\nKianu Reeves( Jonny silverhand, John week, neo matrix)\nPutin( true Russian, president, kgb worker)\nThunberg\nHillary Clinton\nTrudeau \nJingping\nLebron James\nMNM","x":-333,"y":-361,"width":493,"height":1061},
+		{"id":"19ba92aae29810a5","type":"text","text":"divide by categories","x":540,"y":-600,"width":250,"height":60,"color":"1"},
+		{"id":"fe6cd2fbd3828fe4","type":"text","text":"sportmen","x":2320,"y":-390,"width":250,"height":60,"color":"5"},
+		{"id":"cca2368bfc5502ef","type":"text","text":"Tyson","x":2320,"y":-290,"width":250,"height":60,"color":"5"},
+		{"id":"997ccdaf92978157","type":"text","text":"actors","x":1320,"y":-390,"width":250,"height":60},
+		{"id":"47aff3cde4d674fd","type":"text","text":"Киану Ривз","x":1320,"y":-290,"width":250,"height":60},
+		{"id":"c3325c00c90c23ea","type":"text","text":"rapers/singers","x":3120,"y":-390,"width":250,"height":60},
+		{"id":"97da8145ae0ac5ad","type":"text","text":"kendrick lamar","x":3120,"y":-290,"width":250,"height":60},
+		{"id":"c8e173dfd2a870d8","type":"text","text":"politicians","x":415,"y":-390,"width":250,"height":60},
+		{"id":"17baf9f272396055","type":"text","text":"trump","x":415,"y":-290,"width":250,"height":60},
+		{"id":"6784a63f879af740","x":2600,"y":-40,"width":140,"height":60,"color":"5","type":"text","text":"prisoner"},
+		{"id":"27d9f7e6e3c9b330","x":2345,"y":-40,"width":200,"height":60,"color":"5","type":"text","text":"the pigeon Lover"},
+		{"id":"277a6fd195e38b81","x":2160,"y":-40,"width":117,"height":60,"color":"5","type":"text","text":"Prime"},
+		{"id":"89748195d80555af","x":3227,"y":-169,"width":250,"height":60,"type":"text","text":"kedrick rap king"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"13c347ad08804dbb","fromNode":"c3325c00c90c23ea","fromSide":"bottom","toNode":"97da8145ae0ac5ad","toSide":"top"},
+		{"id":"ccfb00b7d1d239a3","fromNode":"c8e173dfd2a870d8","fromSide":"bottom","toNode":"17baf9f272396055","toSide":"top"},
+		{"id":"6ba7d1f23f244a96","fromNode":"997ccdaf92978157","fromSide":"bottom","toNode":"47aff3cde4d674fd","toSide":"top"},
+		{"id":"1edd4b6bd75339e7","fromNode":"fe6cd2fbd3828fe4","fromSide":"bottom","toNode":"cca2368bfc5502ef","toSide":"top"},
+		{"id":"173b507073f52ea8","fromNode":"cca2368bfc5502ef","fromSide":"bottom","toNode":"277a6fd195e38b81","toSide":"top"},
+		{"id":"63d3845239bd19b2","fromNode":"cca2368bfc5502ef","fromSide":"bottom","toNode":"27d9f7e6e3c9b330","toSide":"top"},
+		{"id":"f24b2b501a3296b7","fromNode":"cca2368bfc5502ef","fromSide":"bottom","toNode":"6784a63f879af740","toSide":"top"}
+	]
 }
